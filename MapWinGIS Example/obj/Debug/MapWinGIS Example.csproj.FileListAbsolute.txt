@@ -1,0 +1,27 @@
+F:\Current Projects\ReCop\Technical Docs\Software\GIS\MapWinGIS Example\MapWinGIS Example\bin\Debug\MapWindow HeatMap.exe.config
+F:\Current Projects\ReCop\Technical Docs\Software\GIS\MapWinGIS Example\MapWinGIS Example\obj\Debug\MapWindow HeatMap.exe
+F:\Current Projects\ReCop\Technical Docs\Software\GIS\MapWinGIS Example\MapWinGIS Example\obj\Debug\MapWindow HeatMap.pdb
+F:\Current Projects\ReCop\Technical Docs\Software\GIS\MapWinGIS Example\MapWinGIS Example\obj\Debug\MapWinGIS Example.csprojResolveAssemblyReference.cache
+F:\Current Projects\ReCop\Technical Docs\Software\GIS\MapWinGIS Example\MapWinGIS Example\obj\Debug\MapWindow_HeatMap.FormMain.resources
+F:\Current Projects\ReCop\Technical Docs\Software\GIS\MapWinGIS Example\MapWinGIS Example\obj\Debug\MapWindow_HeatMap.Properties.Resources.resources
+F:\Current Projects\ReCop\Technical Docs\Software\GIS\MapWinGIS Example\MapWinGIS Example\obj\Debug\MapWinGIS Example.csproj.GenerateResource.Cache
+F:\Current Projects\ReCop\Technical Docs\Software\GIS\MapWinGIS Example\MapWinGIS Example\bin\Debug\MapWindow HeatMap.exe
+F:\Current Projects\ReCop\Technical Docs\Software\GIS\MapWinGIS Example\MapWinGIS Example\bin\Debug\MapWindow HeatMap.pdb
+F:\Current Projects\ReCop\Technical Docs\Software\GIS\MapWinGIS Example\MapWinGIS Example\bin\Debug\AsyncIO.dll
+F:\Current Projects\ReCop\Technical Docs\Software\GIS\MapWinGIS Example\MapWinGIS Example\bin\Debug\AxInterop.MapWinGIS.dll
+F:\Current Projects\ReCop\Technical Docs\Software\GIS\MapWinGIS Example\MapWinGIS Example\bin\Debug\NaCl.dll
+F:\Current Projects\ReCop\Technical Docs\Software\GIS\MapWinGIS Example\MapWinGIS Example\bin\Debug\Newtonsoft.Json.dll
+F:\Current Projects\ReCop\Technical Docs\Software\GIS\MapWinGIS Example\MapWinGIS Example\bin\Debug\System.Buffers.dll
+F:\Current Projects\ReCop\Technical Docs\Software\GIS\MapWinGIS Example\MapWinGIS Example\bin\Debug\System.Memory.dll
+F:\Current Projects\ReCop\Technical Docs\Software\GIS\MapWinGIS Example\MapWinGIS Example\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Current Projects\ReCop\Technical Docs\Software\GIS\MapWinGIS Example\MapWinGIS Example\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Current Projects\ReCop\Technical Docs\Software\GIS\MapWinGIS Example\MapWinGIS Example\bin\Debug\System.ValueTuple.dll
+F:\Current Projects\ReCop\Technical Docs\Software\GIS\MapWinGIS Example\MapWinGIS Example\bin\Debug\AsyncIO.pdb
+F:\Current Projects\ReCop\Technical Docs\Software\GIS\MapWinGIS Example\MapWinGIS Example\bin\Debug\AxInterop.MapWinGIS.xml
+F:\Current Projects\ReCop\Technical Docs\Software\GIS\MapWinGIS Example\MapWinGIS Example\bin\Debug\NaCl.xml
+F:\Current Projects\ReCop\Technical Docs\Software\GIS\MapWinGIS Example\MapWinGIS Example\bin\Debug\Newtonsoft.Json.xml
+F:\Current Projects\ReCop\Technical Docs\Software\GIS\MapWinGIS Example\MapWinGIS Example\bin\Debug\System.Buffers.xml
+F:\Current Projects\ReCop\Technical Docs\Software\GIS\MapWinGIS Example\MapWinGIS Example\bin\Debug\System.Memory.xml
+F:\Current Projects\ReCop\Technical Docs\Software\GIS\MapWinGIS Example\MapWinGIS Example\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Current Projects\ReCop\Technical Docs\Software\GIS\MapWinGIS Example\MapWinGIS Example\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Current Projects\ReCop\Technical Docs\Software\GIS\MapWinGIS Example\MapWinGIS Example\bin\Debug\System.ValueTuple.xml

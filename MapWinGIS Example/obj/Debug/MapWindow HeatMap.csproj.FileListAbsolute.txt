@@ -1,0 +1,14 @@
+F:\Current Projects\GIS HeatMap\MapWindow HeatMap\MapWindow HeatMap\bin\Debug\MapWindow HeatMap.exe.config
+F:\Current Projects\GIS HeatMap\MapWindow HeatMap\MapWindow HeatMap\obj\Debug\MapWindow_HeatMap.FormMain.resources
+F:\Current Projects\GIS HeatMap\MapWindow HeatMap\MapWindow HeatMap\obj\Debug\MapWindow_HeatMap.Properties.Resources.resources
+F:\Current Projects\GIS HeatMap\MapWindow HeatMap\MapWindow HeatMap\obj\Debug\MapWindow HeatMap.csproj.GenerateResource.Cache
+F:\Current Projects\GIS HeatMap\MapWindow HeatMap\MapWindow HeatMap\bin\Debug\MapWindow HeatMap.exe
+F:\Current Projects\GIS HeatMap\MapWindow HeatMap\MapWindow HeatMap\bin\Debug\MapWindow HeatMap.pdb
+F:\Current Projects\GIS HeatMap\MapWindow HeatMap\MapWindow HeatMap\bin\Debug\AxInterop.MapWinGIS.dll
+F:\Current Projects\GIS HeatMap\MapWindow HeatMap\MapWindow HeatMap\obj\Debug\MapWindow HeatMap.exe
+F:\Current Projects\GIS HeatMap\MapWindow HeatMap\MapWindow HeatMap\obj\Debug\MapWindow HeatMap.pdb
+F:\Current Projects\GIS HeatMap\MapWindow HeatMap\MapWindow HeatMap\obj\Debug\MapWindow HeatMap.csprojResolveAssemblyReference.cache
+F:\Current Projects\GIS HeatMap\MapWindow HeatMap\MapWindow HeatMap\bin\Debug\AxInterop.MapWinGIS.xml
+F:\Current Projects\TeleOperation\Software\New folder\MapWindow HeatMap\bin\Debug\MapWindow HeatMap.exe.config
+F:\Current Projects\TeleOperation\Software\New folder\MapWindow HeatMap\obj\Debug\MapWindow HeatMap.exe
+F:\Current Projects\TeleOperation\Software\New folder\MapWindow HeatMap\obj\Debug\MapWindow HeatMap.pdb
